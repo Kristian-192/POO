@@ -1,2 +1,3 @@
-# POO
-Este repositorio contiene un ejercicio de Programación orientada a objetos 
+
+archivo de prueba 
+Cristian Miño
